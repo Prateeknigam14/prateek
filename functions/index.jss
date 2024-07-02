@@ -9,7 +9,7 @@ $$ = (e) => {
 };
 
 const userInfo = {
-  name: "PRABHSIMRAN SINGH",
+  name: "PRATEEK NIGAM",
   address: "rajavirdi2001@gmail.com",
   phone: "+91 7696453597",
   about:
